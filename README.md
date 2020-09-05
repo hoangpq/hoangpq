@@ -2,7 +2,7 @@
 
 I'm a software engineer who is passionate about making open-source more accessible.
 
-JavaScript Fellow | Deno | Svelte | Rust | Haskell | Elm | Odoo Functional Consultant
+JavaScript Fellow | Deno | Svelte | Rust | Haskell | Elm | Flutter | KMM | Odoo Functional Consultant
 
 [My personal home page](https://hoangpq.github.io/)
 
