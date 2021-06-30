@@ -8,7 +8,7 @@ I'm a software engineer who is passionate about making open-source. Please suppo
 
 Brave author: https://github.com/hoangpq
 
-![Hoang's github stats](https://github-readme-stats.vercel.app/api?username=hoangpq&theme=onedark)
+![Hoang's github stats](https://github-readme-stats.vercel.app/api?username=hoangpq&theme=onedark&count_private=true)
 <br/>
 ![Hoang's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangpq&layout=compact&theme=onedark)
 
