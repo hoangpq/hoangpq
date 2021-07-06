@@ -14,5 +14,6 @@ Brave author: https://github.com/hoangpq
 
 
 [My personal home page](https://hoangpq.github.io/)
+[Medium](https://hoangphanplay.medium.com/)
 
-JavaScript Fellow | Deno | Svelte | Rust | Haskell | Elm | Flutter | KMM | Odoo Functional Consultant
+Javascript | JVM | Rust & Functional Programming (Haskell, Elm)
