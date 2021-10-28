@@ -6,8 +6,6 @@ I'm a software engineer who is passionate about making open-source.
   <img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 </a>
 
-Brave author: https://github.com/hoangpq
-
 ![Hoang's github stats](https://github-readme-stats.vercel.app/api?username=hoangpq&theme=onedark&count_private=true)
 <br/>
 ![Hoang's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangpq&layout=compact&theme=onedark)
