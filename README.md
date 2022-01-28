@@ -18,4 +18,4 @@ Javascript | JVM | Rust & Functional Programming (Haskell, Elm)
 
 <hr/>
 
-![View count](https://early-deer-44.deno.dev?name=hoangpq)
+<img width="500" height="500" src="https://early-deer-44.deno.dev?name=hoangpq&new=1&t=10000"/>
