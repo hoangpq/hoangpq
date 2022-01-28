@@ -17,3 +17,6 @@ Javascript | JVM | Rust & Functional Programming (Haskell, Elm)
 </a>
 
 <hr/>
+
+![Hoang's Top Langs](https://early-deer-44.deno.dev?_u_=hoangpq)
+
