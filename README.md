@@ -4,7 +4,7 @@ I'm a software engineer who is passionate about making open-source.
 
 Javascript | JVM | Rust & Functional Programming (Haskell, Elm)
 
-![Hoang's github stats](https://github-readme-stats.vercel.app/api?username=hoangpq&theme=onedark&count_private=true)
+![Hoang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangpq&show_icons=true&theme=radical)
 
 ![Hoang's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangpq&layout=compact&theme=onedark)
 
