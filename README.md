@@ -8,8 +8,6 @@ Javascript | JVM | Rust & Functional Programming (Haskell, Elm)
 
 ![Hoang's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangpq&layout=compact&theme=onedark)
 
-![Hoang's Top Langs](https://early-deer-44.deno.dev?ur=hoangpq)
-
 [Personal Home Page](https://hoangpq.github.io/) | [Find me on Medium](https://hoangphanplay.medium.com/)
 <p align="left">
   <a href='https://ko-fi.com/hoangphan' target='_blank'>
