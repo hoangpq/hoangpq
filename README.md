@@ -2,7 +2,7 @@
 
 I'm a software engineer who is passionate about making open-source.
 
-Javascript | JVM | Rust & Functional Programming (Haskell, Elm)
+Digital craftsman | Technical Consultant | Clojurist | Haskeller
 
 ![Hoang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangpq&show_icons=true&theme=radical)
 
