@@ -1,6 +1,6 @@
 # Hi, I'm Hoang Phan 
 
-I'm a software engineer who is passionate about making open-source.
+I'm a software engineer who is passionate making open-source.
 
 Digital craftsman | Technical Consultant | Clojurist | Haskeller
 
