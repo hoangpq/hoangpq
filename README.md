@@ -2,6 +2,6 @@
 
 I'm a software engineer who is passionate making open-source.
 
-Digital craftsman | Technical Consultant | Clojurist | Haskeller
+Technical Consultant | #[Rust] | ~(Clojurist) | [| Haskeller] _.Scala
 
-[Personal Home Page](https://hoangpq.github.io/) | [Find me on Medium](https://hoangphanplay.medium.com/)
+[Personal Home Page](https://hoangpq.github.io/) | [Find me on Medium](https://hoangphanplay.medium.com/) | [Support me in Kofi](https://ko-fi.com/hoangphan)
