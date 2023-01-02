@@ -4,4 +4,4 @@ I'm a software engineer who is passionate making open-source.
 
 Technical Consultant | #[Rust] | ~(Clojurist) | [| Haskeller] _.Scala
 
-[Personal Home Page](https://hoangpq.github.io/) | [Find me on Medium](https://hoangphanplay.medium.com/) | [Support my Kofi](https://ko-fi.com/hoangphan)
+[Personal Home Page](https://hoangpq.github.io/) | [Support my Kofi](https://ko-fi.com/hoangphan)
